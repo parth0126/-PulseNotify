@@ -1,0 +1,16 @@
+# Environment / secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Celery Beat
+celerybeat-schedule*
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
